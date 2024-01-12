@@ -20,6 +20,9 @@ return {
   -- Set colorscheme to use
   colorscheme = "astrodark",
 
+  -- Sets neovide fonts
+  guifont = "JetBrainsMono Nerd Font,JetBrains Mono,Noto Color Emoji",
+
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
     virtual_text = true,

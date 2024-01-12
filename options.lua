@@ -7,7 +7,6 @@ return {
     spell = false, -- sets vim.opt.spell
     signcolumn = "auto", -- sets vim.opt.signcolumn to auto
     wrap = false, -- sets vim.opt.wrap
-    guifont = "JetBrainsMono Nerd Font,JetBrains Mono,Noto Color Emoji", -- sets neovide fonts
     expandtab = false, -- Disables the use of space in tab
     tabstop = 8, -- Number of space in a tab
     shiftwidth = 8, -- Number of space inserted for indentation
