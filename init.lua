@@ -21,7 +21,11 @@ return {
   colorscheme = "astrodark",
 
   -- Sets neovide fonts
-  guifont = "JetBrainsMono Nerd Font,JetBrains Mono,Noto Color Emoji",
+  -- FONT SETTING MOVED TO NEOVIDE CONFIG FILE. I DONT KNOW WHY IT WONT WORK HERE ANYMORE.
+  -- in neovide config file: 
+  -- [font]
+  -- normal = [ "JetBrainsMono Nerd Font", "JetBrains Mono", "Noto Color Emoji" ]
+  -- size = 12
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
