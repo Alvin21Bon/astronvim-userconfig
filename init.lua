@@ -24,7 +24,7 @@ return {
   -- FONT SETTING MOVED TO NEOVIDE CONFIG FILE. I DONT KNOW WHY IT WONT WORK HERE ANYMORE.
   -- in neovide config file: 
   -- [font]
-  -- normal = [ "JetBrainsMono Nerd Font", "JetBrains Mono", "Noto Color Emoji" ]
+  -- normal = [ "JetBrainsMono Nerd Font Mono", "JetBrains Mono", "Noto Color Emoji" ]
   -- size = 12
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
