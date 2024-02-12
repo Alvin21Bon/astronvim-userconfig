@@ -6,4 +6,12 @@ return {
 
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
+
+  -- language packs
+  { import = "astrocommunity.pack.java" },
+  { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.lsp.lsp-signature-nvim" },
+  { import = "astrocommunity.editing-support.cutlass-nvim" },
+  { import = "astrocommunity.editing-support.suda-vim" },
 }
